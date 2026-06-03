@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "850851261027",
+    "firebase_url": "https://sheildx-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sheildx",
+    "storage_bucket": "sheildx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850851261027:android:5c1f71a5cb65485d2ba656",
+        "android_client_info": {
+          "package_name": "com.example.shieldx_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOv7L5du7DxiXexYkI80Yh_qu5scLQIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850851261027:android:e6006f2787c31df42ba656",
+        "android_client_info": {
+          "package_name": "com.shieldx.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOv7L5du7DxiXexYkI80Yh_qu5scLQIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
