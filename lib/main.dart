@@ -316,7 +316,7 @@ Future<void> sendSMS(String phone, String message) async {
   var response = await http.post(
     Uri.parse("https://www.fast2sms.com/dev/bulkV2"),
     headers: {
-      "authorization": "cZs7ECog2xFUa0PLwN4VQf3urG6W8HKyOSehIYTBvMkzDbRtAqYv7Zebp6rmWRiHKzFBgNsL2DqfdkxQ",
+      "authorization": "fast2sms apikey",  // 🔥 REPLACE WITH YOUR FAST2SM    S
       "Content-Type": "application/x-www-form-urlencoded"
     },
     body: {
