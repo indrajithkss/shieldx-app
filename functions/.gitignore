@@ -1,2 +1,30 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# Firebase
+android/app/google-services.json
+GoogleService-Info.plist
+serviceAccountKey.json
+.firebase/
+
+# Environment files
+.env
+*.env
+
+# Node
 node_modules/
+
+# Logs
+*.log
+
+# Local config
 *.local
